@@ -1,6 +1,5 @@
 ## Olá! Me chamo Ruanderson Garcia 🖐️
 
-- 🌱 Hoje trabalho com segurança privada
 - 📚 Formação técnica em eletrônica
 - 👨‍💻 Estudante de tecnologia
 - 💜 Apaixonado por códigos
